@@ -1,6 +1,6 @@
 # <p align="center" >  Projeto do portfólio  </p> 
 
-![LOGO](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTViNjYwYWZkY2JlMDM5ODE3ZDEzOTEzMDllNTg5YTE2ZjQ0ZDkzMiZjdD1n/49iI9xoTyVSWkD59pG/giphy.gif)
+<div align= "center"> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTViNjYwYWZkY2JlMDM5ODE3ZDEzOTEzMDllNTg5YTE2ZjQ0ZDkzMiZjdD1n/49iI9xoTyVSWkD59pG/giphy.gif"></div>
 
 ## Cursos base para desenvolver o projeto
 
