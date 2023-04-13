@@ -13,7 +13,7 @@
 * [Curso de HTML e CSS: trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/certificate/af070b44-c1d0-44a8-a843-1904c51865cb)
 
 ## Como acessar
-* [Link do site]()
+* [Link do site](https://portifoliovictor.vercel.app/)
 
 
 ## Tecnologias 
